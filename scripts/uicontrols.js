@@ -1,3 +1,3 @@
-Hooks.on("ready", function() {
+Hooks.on("renderApplication", function() {
   ui.controls.render();
 });
