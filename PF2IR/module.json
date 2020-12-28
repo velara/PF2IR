@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.7.8",
   "url": "https://github.com/velara/PF2IR",
   "manifest": "https://raw.githubusercontent.com/velara/PF2IR/master/PF2IR/module.json",
-  "download": "https://github.com/velara/PF2IR/archive/0.0.1.zip",
+  "download": "https://github.com/velara/PF2IR/releases/download/0.0.1/PF2IR.zip",
   "scripts": [
     "scripts/uicontrols.js"
   ]
