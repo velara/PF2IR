@@ -5,6 +5,10 @@
   "author": "Velara",
   "version": "0.0.1",
   "minimumCoreVersion": "0.7.8",
+  "compatibleCoreVersion": "0.7.9",
+  "url": "https://github.com/velara/PF2IR",
+  "manifest": "https://raw.githubusercontent.com/velara/PF2IR/master/module.json",
+  "download": "https://github.com/velara/PF2IR/archive/0.0.1.zip",
   "scripts": [
     "scripts/uicontrols.js"
   ]
