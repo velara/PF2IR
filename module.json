@@ -3,7 +3,7 @@
   "title": "Pathfinder 2e Integrated Rolls",
   "description": "Integrates skill rolls into actions, and flattens attack rolls to minimize button presses",
   "author": "Velara",
-  "version": "0.0.1",
+  "version": "0.0.12",
   "minimumCoreVersion": "0.7.8",
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/velara/PF2IR",
