@@ -1,3 +1,3 @@
-Hooks.on("renderApplication", function() {
+Hooks.on("renderSidebarDirectory", function() {
   ui.controls.render();
 });
