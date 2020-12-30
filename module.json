@@ -19,7 +19,7 @@
             "name": "secrets-of-magic-playtest-feats",
             "path": "packs/secrets-of-magic-playtest-feats.db",
             "system": "pf2e",
-            "package": "pf2e-toolbox"
+            "package": "PF2IR"
         },
         {
             "label": "Secrets of Magic Playtest Class Features",
@@ -27,7 +27,7 @@
             "name": "secrets-of-magic-playtest-class-features",
             "path": "packs/secrets-of-magic-playtest-class-features.db",
             "system": "pf2e",
-            "package": "pf2e-toolbox"
+            "package": "PF2IR"
         },
         {
             "label": "Secrets of Magic Playtest Spells",
@@ -35,7 +35,7 @@
             "name": "secrets-of-magic-playtest-spells",
             "path": "packs/secrets-of-magic-playtest-spells.db",
             "system": "pf2e",
-            "package": "pf2e-toolbox"
+            "package": "PF2IR"
         },
         {
             "label": "Secrets of Magic Playtest Actions",
@@ -43,7 +43,7 @@
             "name": "secrets-of-magic-playtest-actions",
             "path": "packs/secrets-of-magic-playtest-actions.db",
             "system": "pf2e",
-            "package": "pf2e-toolbox"
+            "package": "PF2IR"
         },
         {
             "label": "Secrets of Magic Playtest Classes",
@@ -51,7 +51,7 @@
             "name": "secrets-of-magic-playtest-classes",
             "path": "packs/secrets-of-magic-playtest-classes.db",
             "system": "pf2e",
-            "package": "pf2e-toolbox"
+            "package": "PF2IR"
         },
         {
             "label": "Secrets of Magic Playtest Eidolon Feats",
@@ -59,7 +59,7 @@
             "name": "secrets-of-magic-playtest-eidolon-feats",
             "path": "packs/secrets-of-magic-playtest-eidolon-feats.db",
             "system": "pf2e",
-            "package": "pf2e-toolbox"
+            "package": "PF2IR"
         },
         {
             "label": "Secrets of Magic Playtest Eidolons",
@@ -67,7 +67,7 @@
             "name": "secrets-of-magic-playtest-eidolons",
             "path": "packs/secrets-of-magic-playtest-eidolons.db",
             "system": "pf2e",
-            "package": "pf2e-toolbox"
+            "package": "PF2IR"
         }
     ],
 }
